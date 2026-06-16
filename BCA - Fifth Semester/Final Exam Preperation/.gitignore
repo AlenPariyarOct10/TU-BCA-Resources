@@ -1,0 +1,13 @@
+# Environment
+.env
+
+# Node
+/CGA/Notes/
+
+# Media
+*.mp4
+*.docx
+*.psd
+*.wav
+*.download
+
